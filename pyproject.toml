@@ -8,6 +8,9 @@ dependencies = [
 ]
 license = { text = "MIT" }
 
+[project.urls]
+homepage = "https://github.com/namedottxt/pypewriter"
+
 [tool.poetry]
 packages = [{include = "pypewriter", from = "src"}]
 
